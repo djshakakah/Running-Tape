@@ -1,6 +1,6 @@
 <h1>
+<img src="taperecorder.gif" width="120">
 Running-Tape
-<img src="taperecorder.gif" width="60">
 </h1>
 
 Hello friend!  
