@@ -1,4 +1,4 @@
-# Radio Show Recorder
+# Running-Tape ![](taperecorder.gif)
 
 Hello friend!  
 The purpose of this Python script is to **schedule your PC to record a radio show or podcast** with ease.
