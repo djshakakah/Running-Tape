@@ -1,4 +1,7 @@
-# Running-Tape ![](taperecorder.gif)
+<h1>
+Running-Tape
+<img src="taperecorder.gif" width="60">
+</h1>
 
 Hello friend!  
 The purpose of this Python script is to **schedule your PC to record a radio show or podcast** with ease.
