@@ -30,8 +30,8 @@ The purpose of this Python script is to **schedule your PC to record a radio sho
 3. Enter start and end times (in 24-hour format).
 4. Click **Set Time** to schedule the recording.
 
-> Set it and forget it!  
 > The recording will be saved in the `downloads/` folder inside the script’s directory.
+> Note: If you enter a time that already passed, it will schedule for tomorrow. 
 
 ---
 
